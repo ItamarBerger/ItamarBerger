@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Itamar Berger, 2nd year CS student at Bar-Ilan University.
+- Itamar Berger, Computer Science M.Sc student @ Tel-Aviv University |  CS B.Sc @ Bar-Ilan University.
 
 <!---
 ItamarBerger/ItamarBerger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
